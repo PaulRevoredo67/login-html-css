@@ -1,0 +1,122 @@
+body{
+    background-color: rgb(243, 237, 237);
+    /* background: url(fond-container.jpg),no-repeat;
+    background-size: cover; */
+    /* /* background-position: center center; */
+
+    ; 
+}
+
+.container{
+    width:400px ;
+    height: 550px;
+    margin: auto;
+    background: url(https://i.pinimg.com/564x/bb/94/75/bb94757987efda4b177f7ebc1d312e36.jpg);
+    border-radius: 5px;
+    box-shadow: 5px 5px 15px rgb(19, 19, 19);
+}
+
+.login-container{
+   
+    width:400px ;
+    height: 550px;
+    background-color: rgba(1, 1, 1, 0.867);
+    
+   
+    margin: auto;
+    margin-top: 150px;
+    border: solid 1px rgba(49, 47, 47, 0.617);
+    border-radius: 5px;
+}
+
+
+
+
+
+
+.login{
+   
+    margin: 50px;
+    height:350px;
+    background-color: rgba(234, 239, 234, 0);
+}
+
+
+#email-login{
+    width:260px ;
+    height: 30px;
+    margin-left: 16px;
+    margin-top: 20px;
+}
+
+#password-login{
+    margin-top: 10px;
+    width:260px ;
+    height: 30px;
+    margin-left: 16px;
+    margin-bottom: 16px;   
+}
+
+#checkbox-login{
+    margin-left: 16px;
+}
+
+
+#button-login{
+    width:270px;
+    margin-left: 16px;
+    margin-bottom: 16px;
+    height: 40px;
+    margin-top: 20px;
+    border-radius: 5px;
+    background-color: rgba(22, 151, 161, 0.991);
+    cursor: pointer;
+    font-weight: 800;
+    color: white;
+}
+
+
+#title-login{
+    
+    text-align: center;
+    margin-bottom: 50px;
+    
+    color: rgba(255, 255, 255, 0.766);
+    font-size:50px;
+    font-weight: 200;
+    margin-top: 50px;
+}
+
+
+
+.facebook-img{
+    width: 20px;
+    height: 20px;
+    float: left;
+    margin-right: 10px;
+}
+
+
+.fb-container{
+    width: 260px;
+    margin-left: 50px;
+    margin-top: 30px;
+    cursor: pointer;
+}
+    
+
+.inicia-fb{
+   
+  color: rgb(255, 255, 255);
+}
+
+.has-olvidado{
+    color: rgb(252, 254, 254);
+    text-align: center;
+    margin-top: 20px;
+    cursor: pointer;
+}
+
+.checkbox-text{
+    color: rgb(253, 253, 253);
+}
